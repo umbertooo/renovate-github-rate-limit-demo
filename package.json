@@ -1,0 +1,14 @@
+{
+  "name": "github-rate-limit-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "info": "redocly --version"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "devDependencies": {
+    "@redocly/cli": "^1.33.0"
+  }
+}
